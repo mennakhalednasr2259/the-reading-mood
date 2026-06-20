@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "title": "The Pride and Prejudice",
+    "author": "Jane Austen",
+    "mood": "romance",
+    "description": "A classic romance exploring manners, upbringing, and love.",
+    "pages": 432,
+    "rating": 4.5,
+    "cover": "https://covers.openlibrary.org/b/id/14545931-L.jpg",
+    "quote": "You must allow me to tell you how ardently I admire and love you."
+  },
+  {
+    "id": 2,
+    "title": "Book Lovers",
+    "author": "Emily Henry",
+    "mood": "romance",
+    "description": "Two bookish rivals find themselves in the same small town.",
+    "pages": 384,
+    "rating": 4.2,
+    "cover": "https://covers.openlibrary.org/b/id/12711681-L.jpg",
+    "quote": "In books, I found the friends I couldn't find in the world."
+  },
+  {
+    "id": 3,
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "mood": "romance",
+    "description": "Two teenage cancer patients fall deeply in love.",
+    "pages": 313,
+    "rating": 4.4,
+    "cover": "https://covers.openlibrary.org/b/id/12558506-L.jpg",
+    "quote": "Some infinites are bigger than other infinites."
+  },
+  {
+    "id": 4,
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "mood": "cry",
+    "description": "A tragic, beautiful retelling of Achilles and Patroclus.",
+    "pages": 378,
+    "rating": 4.6,
+    "cover": "https://covers.openlibrary.org/b/id/13813876-L.jpg",
+    "quote": "He is half of my soul, as the poets say."
+  },
+  {
+    "id": 5,
+    "title": "A Little Life",
+    "author": "Hanya Yanagihara",
+    "mood": "cry",
+    "description": "A deeply emotional story of friendship, trauma, and endurance.",
+    "pages": 816,
+    "rating": 4.3,
+    "cover": "https://covers.openlibrary.org/b/id/12643599-L.jpg",
+    "quote": "Things don't get fixed. But they get put in perspective."
+  },
+  {
+    "id": 6,
+    "title": "Me Before You",
+    "author": "Jojo Moyes",
+    "mood": "cry",
+    "description": "A heartbreaking love story between a caregiver and a paralyzed man.",
+    "pages": 480,
+    "rating": 4.1,
+    "cover": "https://covers.openlibrary.org/b/id/12715073-L.jpg",
+    "quote": "You are pretty much the only thing that makes me want to get up in the morning."
+  },
+  {
+    "id": 7,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "mood": "fantasy",
+    "description": "Bilbo Baggins journeys to reclaim a stolen treasure from a dragon.",
+    "pages": 310,
+    "rating": 4.7,
+    "cover": "https://covers.openlibrary.org/b/id/14545588-L.jpg",
+    "quote": "In a hole in the ground there lived a hobbit."
+  },
+  {
+    "id": 8,
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "mood": "fantasy",
+    "description": "An epic fantasy world where storm-driven lands shape empires.",
+    "pages": 1007,
+    "rating": 4.8,
+    "cover": "https://covers.openlibrary.org/b/id/12836243-L.jpg",
+    "quote": "Life before death. Strength before weakness. Journey before destination."
+  },
+  {
+    "id": 9,
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "mood": "fantasy",
+    "description": "Four siblings discover a wardrobe that leads to a magical land.",
+    "pages": 767,
+    "rating": 4.6,
+    "cover": "https://covers.openlibrary.org/b/id/12814138-L.jpg",
+    "quote": "Wrong will be right, when Aslan comes in sight."
+  },
+  {
+    "id": 10,
+    "title": "The Secret History",
+    "author": "Donna Tartt",
+    "mood": "dark-academia",
+    "description": "A group of eccentric misfits discover a completely new way of thinking.",
+    "pages": 559,
+    "rating": 4.4,
+    "cover": "https://covers.openlibrary.org/b/id/12918800-L.jpg",
+    "quote": "Beauty is terror. Whatever we call beautiful, we quiver before it."
+  },
+  {
+    "id": 11,
+    "title": "If We Were Villains",
+    "author": "M.L. Rio",
+    "mood": "dark-academia",
+    "description": "Seven young Shakespearean actors face a real-life tragedy.",
+    "pages": 368,
+    "rating": 4.2,
+    "cover": "https://covers.openlibrary.org/b/id/10384039-L.jpg",
+    "quote": "But that is the thing about tragedy; we are drawn to it."
+  },
+  {
+    "id": 12,
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "mood": "dark-academia",
+    "description": "A man sells his soul for eternal youth and beauty.",
+    "pages": 254,
+    "rating": 4.5,
+    "cover": "https://covers.openlibrary.org/b/id/14532651-L.jpg",
+    "quote": "The only way to get rid of a temptation is to yield to it."
+  },
+  {
+    "id": 13,
+    "title": "The House in the Cerulean Sea",
+    "author": "TJ Klune",
+    "mood": "comfort",
+    "description": "A cozy, uplifting story about a lovely found family.",
+    "pages": 396,
+    "rating": 4.6,
+    "cover": "https://covers.openlibrary.org/b/id/10410710-L.jpg",
+    "quote": "You are a wonderful thing, Mr. Baker. And the world is better with you in it."
+  },
+  {
+    "id": 14,
+    "title": "Legends & Lattes",
+    "author": "Travis Baldree",
+    "mood": "comfort",
+    "description": "An orc gives up her sword to open the first-ever coffee shop.",
+    "pages": 318,
+    "rating": 4.3,
+    "cover": "https://covers.openlibrary.org/b/id/13123851-L.jpg",
+    "quote": "Things don't have to be perfect to be good."
+  },
+  {
+    "id": 15,
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "mood": "comfort",
+    "description": "An orphaned girl discovers a hidden, magical garden.",
+    "pages": 331,
+    "rating": 4.5,
+    "cover": "https://covers.openlibrary.org/b/id/14425673-L.jpg",
+    "quote": "If you look the right way, you can see that the whole world is a garden."
+  },
+  {
+    "id": 16,
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "mood": "mystery",
+    "description": "Ten strangers are lured to an isolated island, and one by one they die.",
+    "pages": 272,
+    "rating": 4.6,
+    "cover": "https://covers.openlibrary.org/b/id/12711693-L.jpg",
+    "quote": "Ten little Indian boys went out to dine; One choked his little self and then there were nine."
+  },
+  {
+    "id": 17,
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "mood": "mystery",
+    "description": "A toxic marriage ends in a mysterious disappearance on an anniversary.",
+    "pages": 432,
+    "rating": 4.1,
+    "cover": "https://covers.openlibrary.org/b/id/12648833-L.jpg",
+    "quote": "There's a difference between really loving someone and loving the idea of her."
+  },
+  {
+    "id": 18,
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "mood": "mystery",
+    "description": "A woman shoots her husband and never speaks another word.",
+    "pages": 336,
+    "rating": 4.3,
+    "cover": "https://covers.openlibrary.org/b/id/12623326-L.jpg",
+    "quote": "The only person who can heal us is ourselves."
+  }
+]
